@@ -1,5 +1,6 @@
 # Student Group Distribution Optimizer
 This is a copy version of the original.
+Link:[SC1003_Mini_Project.ipynb](https://github.com/nhatminhdoan221/SC1003-PROJECT/blob/main/SC1003_Mini_Project.ipynb)
 
 ## Project Overview
 This project automates the distribution of 6,000 students into balanced teams based on specific academic criteria without external libraries.
